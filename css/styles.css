@@ -446,6 +446,11 @@ footer .logo {
   margin-bottom: 94px;
 }
 
+.portfolio img {
+  width: 370px;
+  height: 294px;
+}
+
 .portfolio li {
   background-color: var(--white-color);
 }
@@ -472,10 +477,7 @@ footer .logo {
   width: 370px;
   margin-right: 30px;
   margin-bottom: 30px;
-}
-
-.portfolio-item .text {
-  border: #eeeeee;
+  border: 1px solid #eeeeee;
 }
 
 .portfolio-item .description {
